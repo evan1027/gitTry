@@ -27,7 +27,7 @@ if data:
     f.close()
     print data.strip()
 else:
-    print "receive nothing"
+    print "receive nothing", "add"
 
 
 
